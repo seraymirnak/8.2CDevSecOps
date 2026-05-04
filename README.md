@@ -1,1 +1,1 @@
-#SIT753 DevSecOps project
+SIT753 DevSecOps project
